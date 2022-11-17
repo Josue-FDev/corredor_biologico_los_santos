@@ -73,7 +73,7 @@ body{
     color: #fff;
 }
 #search{
-    border: solid .1rem #66aa2a;
+    border: solid .1rem #e7f0df;
     border-radius: 10px;
 }
 #navbarProyectos{
@@ -481,7 +481,8 @@ body{
         margin-bottom: 2rem;
     }
     .fotob{
-        width: 315px;
+        width: 300px;
+        height: 420px;
     }
     .textos p{
         font-size: 20px;
@@ -718,8 +719,12 @@ body{
         height: 85%;
     }
     /* Parrafo Proyectos HTLM */
+    .card-title{
+        justify-content: center;
+        align-self: center;
+    }
     #proyectos{
-        font-size: 75%;
+        font-size: 14px;
     }
     .fotoProyectos{
         margin-left: auto;
@@ -729,7 +734,7 @@ body{
     }
     /*Noticias HTML*/
     #parrafos{
-        font-size: 0.75rem;
+        font-size: 14px;
         margin-top: 0px;
     }
     #titulo{
